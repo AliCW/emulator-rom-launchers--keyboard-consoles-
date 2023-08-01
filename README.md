@@ -1,4 +1,4 @@
-# Emulator ROM Launchers for Keyboard Consoles
+# Emulator ROM Launchers for Keyboard Consoles Using Launchbox Front-End
 
 Launch scripts are to be used with Windows emulators using Launchbox (https://www.launchbox-app.com/) as a front end. I have had issues in regards to auto launching or booting into games themselves on certain platforms. This is dependent on a range of setup configuration issues, you might be able to correct this using the emulator settings, in some cases this is difficult or not possible. 
 
